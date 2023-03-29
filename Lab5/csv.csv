@@ -1,0 +1,16 @@
+ID, NAME, AGE, SEX, MARKS1, MARKS2, PLACE
+10,sachin,24,male,90,95,Shikaripur
+12,Ganesh,26,male,60,85,Mysore
+13,herish,23,female,90,25,Bangalore
+24,Suresh,22,male,70,15,Pune
+25,hmyy,21,female,90,55,Shimoga
+101,John,20,male,85,90,New York
+102,Samantha,19,female,78,85,London
+103,David,21,male,90,80,Sydney
+104,Emily,22,female,92,95,Paris
+105,Michael,20,male,80,88,Tokyo
+106,Alice,21,female,86,90,Singapore
+107,William,19,,79,83,Beijing
+108,Olivia,20,female,91,95,Berlin
+109,Matthew,22,male,88,89,Rome
+110,Isabella,19,female,82,,Mumbai
